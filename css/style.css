@@ -1,0 +1,100 @@
+#navbar-header{
+    background-color: grey;
+    border: 3px solid black;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-brand #topname{
+    color: black;
+    font-size:large;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: 0px;
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 0px;
+    
+}
+#collapsedmenu{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+}
+#btn{
+    border:1px solid black;
+}
+#a{
+   background-color: black;
+}
+#menu{
+   width: 100%;
+   
+   margin: 0px;
+   padding: 0px;
+   border: 2px solid black;
+}
+#menu li{
+    padding: 0px;
+    background-color: white;
+    width: 100%;
+    margin-left: 0px;
+    box-sizing: border-box;
+     
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.mitm{
+    color: black;
+    font-family: cursive;
+    font-size:large;
+    
+}
+#title{
+    width: 100%;
+    height: auto;
+    
+    
+    color:black;
+    
+    font-family: cursive;
+    font-weight: bold;
+}
+.submenu{
+    background-color:grey;
+    box-sizing: border-box;
+   
+margin: 20px 10px 20px 10px;
+
+    
+    
+}
+.subtitle p{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.text{
+    color: black;
+    
+    font-family: cursive;
+    font-size: 18px;
+    padding: 0px 10px 0px 10px;
+}
+@media(max-width: 767px){
+    .navbar-brand #topname{
+        color: black;
+        font-size:x-large;
+        font-weight: bold;
+        font-family: cursive;
+        margin-left: 0px;
+        margin-top: 0px;
+        
+    }
+  
+}
